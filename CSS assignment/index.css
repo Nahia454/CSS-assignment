@@ -1,0 +1,62 @@
+.image{
+    background-image: url("img.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 15px;
+    height: 15px;
+}
+.h1{
+    color:aqua;
+    text-indent: 50px;
+    text-decoration:none;
+     
+}
+p{
+
+ color:orangered;
+ 
+}
+p.x{ 
+  color: maroon;
+  text-indent: 50px;
+  text-decoration-line: none;
+  
+}
+ul.b{
+    color: brown;
+    position:bottom;
+}
+
+p.y{
+   color:darkorange;
+ text-indent: 50px;
+ text-decoration-line: none;
+ position:center;
+} 
+
+ul.c{
+    color:orange ;
+    position: center;
+}
+p.z{
+    color:green;
+    text-indent: 50px;
+    text-size-adjust: none;
+}
+ul.w{
+    color: greenyellow;
+}
+
+body{
+    background-image: url("./images/img.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:500px ;
+    height: 100vh;
+    background-color:dimgrey
+}
+
+
+
+
+
